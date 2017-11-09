@@ -1,0 +1,3 @@
+#!/bin/sh
+
+go build -o Inkpad && gallium-bundle Inkpad
